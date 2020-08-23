@@ -7,60 +7,83 @@ Turn on L TK Pumps 1 and 2, Pump 1, Pump 2 and R TK Pumps 1 and 2
 Turn on Nav & Logo
 Turn Strobe to Auto
 
-EG: Heathrow to Helsinki
-Click INIT
-EGLL/EFHK
-Return to main page
-Cost index enter 29 and press Button next to Cost index
-Enter 350 into CRZ FL/TEMP
+MCDU PREP:
+INIT PAGE, ENTER:
+* ORIGIN/DEST
+* CO ROUTE
+* COST INDEX
+* CRUISE ALT
 
-Right arrow for 2nd page 
-enter zfw cog block (cog is in aircraft weight & balance page pre-flight) (change block with what FOB says centre screen)
+INIT PAGE 2:
+Zero fuel Weight/ZFW Center of Gravity
 
-Click F-PLN
-Click top left this case EGLL
-Click Airways
-Enter waypoint codes
+F-PLN Page:
+Press 1L (source airport) To select Departure Runway and SID
+Press 5R (AIRWAYS) to enter Routes and Waypoints
 
-Set Rose to plan, zoom out, up down arrows to check waypoints
+On ND Panel ROSE set ND Mode to PLN to review waypoints on MCDU
+Return ND mode to ARC
 
-Click Departure
+on PERF / TAKE OFF Page
+* Review Vspeeds
+* Input FLAPS settings (3R)
+* TRANS ALT (4L)
 
-Rose back to arc
+On Flight Panel
+SET Authorized SID Altitude
+Select BARO setting (mHG / hPa)
+Press B to set baro
+Click FD to enable Flight Director
 
-Click Perf
+Engine Start Prep (APU)
+APU MASTER: ON
+APU START: ON
+(Wait for APU START AVAIL)
+APU BLEED: ON
 
-Autopilot
-set alt to 35000 for this eg
-HPA set from data
-Click FD
+Pushback:
+Get ATC clearance 
+Release Parking Brake
+Press SHIFT+P to call push back
 
-overhead panel
-Turn on both Master SW and START
-Give few seconds to warm up then turn on APU BLEED and turn off EXT PWR
+Engine Panel
+Set Engine mode to START
+Start Engines in Sequence
+Eng1 MASTER SW
+Eng2 MASTER SW
+
+Click ECAM Panel ENG page and wait for engines to stabilize
+
 Turn on BEACON ON
 
-Press SHIFT+P to call push back
-Release parking brake when push back has connected
-Turn ignition switch (middle lower) to right to ENG Start
-Turn on ENG 1
-Reach taxi line and stop plane
-Turn on ENG 2
-Lower flaps to 1 for this EG
-Push up speed brakes
-Turn ignition switch (middle lower) to left back to NORM
+NOSE Light set TAXI
 
-overhead panel
-Turn NOSE switch to TAXI
-Turn OFF APU Master SW
-Turn OFF APU BLEED
+Set Pakring brake
 
-Release parking brake and taxi to runway
+Set FLAPS
+Arm Speed Brakes
+Return ENG Mode selector to NORMAL
 
-Stop at red boxes entry to runway visual check runway is clear
-Switch ON LAND L and R
-Switch NOSE to T.O. (take off)
-drive plane to runway line up and bring to complete stop
+Overhead Panel
+NOSE Light set TAXI
+APU MASTER: OFF
+APU BLEED: OFF
+
+Get ATC TAXI Clearance and instructions
+Release parking brake 
+Taxi to runway threshold
+
+Stop at runway threshold
+Obtain ATC clearance and visual runway check
+
+Landing Lights L and R: ON
+NOSe LIGHTS: TO
+
+Check Speed Brake: Armed
+Check Flaps
+Throttle engines check symmetric
+Set Throttle FLEX
+
 DF quick check speed brake is on and flaps at 1 and set auto brake to max
 40% throttle engines stable, 80% throttle
 TAKE OFF!!!!!!!!!!!!!!!
